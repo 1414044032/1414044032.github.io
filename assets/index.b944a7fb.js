@@ -1,0 +1,1 @@
+import{_ as o}from"./index.26eb4d46.js";import{r as a,o as n,k as f,g as e,Y as c}from"./index.6261e021.js";const p={__name:"index",setup(l){const r=a("http://office.tflxsoft.com:10086/swagger-ui/index.html");return(u,s)=>(n(),f(e(o),{src:e(r),"onUpdate:src":s[0]||(s[0]=t=>c(r)?r.value=t:null)},null,8,["src"]))}};export{p as default};
