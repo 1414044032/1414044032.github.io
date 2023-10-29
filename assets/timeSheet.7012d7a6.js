@@ -1,0 +1,1 @@
+import{K as s}from"./index.2e5bc0a8.js";const r=t=>s({url:"/process/external/task/insert",method:"post",data:{...t}}),a=t=>s({url:"/process/external/task/list",method:"post",data:{...t}}),o=t=>s({url:"/process/itemLog/list",method:"post",data:t});export{a,r as b,o as f};
