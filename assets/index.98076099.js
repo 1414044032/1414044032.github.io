@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as t,s as _,t as c,j as a}from"./index.8b4e0df5.js";const d={},n=e=>(_("data-v-7befef4d"),e=e(),c(),e),p={class:"app-container home"},r=n(()=>a("h1",null,"\u9886\u5BFC\u9A7E\u9A76\u8231",-1)),f=[r];function i(e,l){return s(),t("div",p,f)}const u=o(d,[["render",i],["__scopeId","data-v-7befef4d"]]);export{u as default};

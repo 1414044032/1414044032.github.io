@@ -1,0 +1,1 @@
+import{_ as o}from"./index.5c15c708.js";import{r as s,o as a,c as n,e as l,g as c}from"./index.8b4e0df5.js";const p={__name:"index",setup(f){const e=s("http://office.tflxsoft.com:10086/druid/login.html");return(u,r)=>(a(),n("div",null,[l(c(o),{src:e.value,"onUpdate:src":r[0]||(r[0]=t=>e.value=t)},null,8,["src"])]))}};export{p as default};
